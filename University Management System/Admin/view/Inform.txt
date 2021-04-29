@@ -1,0 +1,6 @@
+<html>
+<br>
+<P style=font-weight:bold;>
+XYZ University-Bangladesh, commonly known by its acronym XYZ, is an accredited private university in Dhaka, Bangladesh. The university is an independent organization with own Board of Trustees. It offers several degree programs at graduate and undergraduate level from four faculties, particularly in the field of engineering and business studies.
+</p>
+</html>

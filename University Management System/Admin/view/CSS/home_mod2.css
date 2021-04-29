@@ -1,0 +1,16 @@
+body {
+     
+        background: url("../Resources/white2.PNG") no-repeat;
+                  background-size: cover;
+	
+    }
+    body:hover {
+        background: url("../Resources/white1.PNG") no-repeat;
+        background-size: cover;
+				
+    }
+  .myDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}

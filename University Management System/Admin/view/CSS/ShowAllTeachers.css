@@ -1,0 +1,28 @@
+
+body {
+                background-image: url('../Resources/yellow.PNG');
+                background-size: cover;
+                background-repeat: no-repeat;
+               background-position: center center;
+               background-attachment: fixed;
+                
+                }
+table{
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 1%;
+}
+th, td{
+    padding: 10px;
+     border: 1px dotted  #ffff00;
+}
+th{
+    background-color: #ffff00;
+    color: black;
+
+}
+td{
+    border-bottom: 1px dotted  #ffff00;
+    color: black;
+    background-color: #ffffe0;
+}
